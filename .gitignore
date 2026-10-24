@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+logs/
+high_score.txt
+settings.json
+.vscode/
+.venv/
+venv/
+Thumbs.db
+desktop.ini
+dist/
+build/
